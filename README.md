@@ -19,3 +19,6 @@ Ultra-simple tracking of date and time using millis() on microcontrollers, for e
 <br><b>Step 3:</b>
 <br>//Print out date/time
 <br>date_time_print();
+
+<br>Example code for use with IotWebConf and ESP32:
+<br>https://github.com/prampec/IotWebConf/issues/213#issuecomment-899082698
